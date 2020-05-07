@@ -5,3 +5,8 @@
 # If you are not using those tools, this file may be deleted.
 #
 # The actual configuration files are stored in the `config/_default/` folder.
+
+baseURL = "https://YukoSato.github.io/"
+languageCode = "en-us"
+title = "Yuko Sato"
+theme = "ananke"
