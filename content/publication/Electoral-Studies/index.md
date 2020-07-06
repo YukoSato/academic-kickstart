@@ -4,7 +4,7 @@
 title: "Echoes of a Fading Past: Authoritarian Legacies and Far-Right Voting"
 authors: [Frantzeskakis, Nikolaos and Yuko Sato]
 date: 2020-05-04T23:55:21+09:00
-doi: ""
+doi: "https://doi.org/10.1016/j.electstud.2020.102163"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-05-04T23:55:21+09:00
@@ -42,7 +42,7 @@ url_dataset: "https://github.com/YukoSato/Frantzeskakis_Sato2020.git"
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: 
 url_video:
 
 # Featured image
